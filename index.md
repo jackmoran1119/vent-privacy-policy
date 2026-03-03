@@ -1,7 +1,7 @@
 # Privacy Policy for Vent
 
-**Effective date:** [Month Day, 2026]  
-**Last updated:** [Month Day, 2026]
+**Effective date:** March 2, 2026 
+**Last updated:** March 2, 2026
 
 Vent ("we", "our", "us") provides a mobile application that allows users to create and view location-based posts. This Privacy Policy explains what information we collect, how we use it, and your choices.
 
@@ -64,7 +64,7 @@ We use reasonable administrative and technical safeguards to protect information
 Depending on your location, you may have rights to access, correct, delete, or export your information.
 
 To request account or data deletion, contact us at:  
-**[your support email]**
+**jack.moran111998@gmail.com**
 
 ## 8. Children’s Privacy
 
@@ -81,5 +81,5 @@ We may update this Privacy Policy from time to time. We will update the "Last up
 ## 11. Contact Us
 
 If you have questions about this Privacy Policy, contact:  
-**[your legal/support email]**  
-**[business/developer name]**
+**jack.moran111998@gmail.com**  
+**Jack Moran**
